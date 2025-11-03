@@ -42,16 +42,12 @@ This project demonstrates the ability to design and implement full-cycle data so
 
 ---
 
-## 📂 Repository Structure
-sql_data_warehouse_project/
-│
-├── datasets/ # Raw CSV data
-│
-├── scripts/ # SQL ETL scripts (bronze, silver, gold)
-│
-├── docs/ # Data model diagrams and documentation
-│
-└── README.md
+## 📂 ## Repository Structure
+
+- [datasets](datasets/) – Raw CSV data
+- [scripts](scripts/) – SQL ETL scripts
+- [docs](docs/) – Data model diagrams and documentation
+
 
 ---
 
