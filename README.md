@@ -16,9 +16,10 @@ A complete end-to-end data warehouse built in SQL Server, covering the full data
 ## 🏗️ Architecture Overview
 
 The project follows a layered approach:
+<img width="911" height="711" alt="DataWarehouse Project GLB" src="https://github.com/user-attachments/assets/b14657a9-88b7-495c-96da-7ec4d63a561f" />
 
 - **Bronze Layer** – Raw data imported from ERP and CRM CSV files.  
-- **Silver Layer** – Cleaned and standardized data prepared for modeling.  
+- **Silver Layer** – Cleaned and standardised data prepared for modeling.  
 - **Gold Layer** – Business-ready analytical model (Fact and Dimension tables) optimized for reporting.
 
 ---
